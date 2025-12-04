@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "glow「劇場版プロジェクトセカイ」ver.",
+  "base_artist": "星乃 一歌",
+  "createdAt": "2025-12-04T09:36:14.131521Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "glow「劇場版プロジェクトセカイ」ver.",
+      "artist": "星乃一歌",
+      "has_synced": false,
+      "path": "select/pl_01_glow「劇場版プロジェクトセカイ」ver._星乃一歌.txt"
+    }
+  ]
+}
